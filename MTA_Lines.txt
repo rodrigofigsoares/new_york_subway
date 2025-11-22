@@ -1,0 +1,30 @@
+Broadway - 7Av:Times Sq-42 St, 34 St-Penn Station, 28 St, 23 St, 18 St, 14 St, Christopher St, Houston St, Canal St, Franklin St, Chambers St, WTC Cortlandt, Rector St, South Ferry, 50 St, 59 St-Columbus Circle, 66 St, 72 St, 79 St, 86 St, 96 St, 103 St, Cathedral Pkwy (110 St), 116 St, 125 St, 137 St, 145 St, 157 St, 168 St, 181 St, 191 St, Dyckman St, 207 St, 215 St, Marble Hill-225 St, 231 St, 238 St, Van Cortlandt Park-242 St
+Flushing:Flushing-Main St, Mets-Willets Point, 111 St, 103 St, Junction Blvd, 90 St, 82 St, 74 St, 69 St, 61 St, 52 St, 46 St, 40 St, 33 St, Queensboro Plaza, Court Sq, Hunters Point Av, Vernon Blvd, Grand Central-42 St, 5 Av, Times Sq-42 St, 34 St-Hudson Yards
+Lexington Av:125 St, 116 St, 110 St, 103 St, 96 St, 86 St, 77 St, 68 St, 59 St, 51 St, Grand Central-42 St, 33 St, 28 St, 23 St, 14 St, Astor Pl, Bleecker St, Spring St, Canal St, Brooklyn Bridge, Fulton St, Wall St, Bowling Green
+Eastern Pky:Atlantic Av-Barclays Ctr, Nevins St, Hoyt St, Borough Hall, Clark St, Wall St, Fulton St, Park Pl, Franklin Av, Botanic Garden, Eastern Pkwy, Grand Army Plaza, Bergen St, Carroll St, 4 Av-9 St, 7 Av, 15 St, Prospect Park, Parkside Av, Church Av, Beverley Rd, Cortelyou Rd, Newkirk Plaza, Avenue H, Avenue J, Avenue M, Kings Hwy, Neck Rd, Sheepshead Bay, Brighton Beach
+Pelham:Pelham Bay Park, Buhre Av, Middletown Rd, Westchester Sq, Zerega Av, Castle Hill Av, Parkchester, St Lawrence Av, Morrison Av, Elder Av, Whitlock Av, Hunts Point Av, Longwood Av, E 149 St, Brook Av, Cypress Av, 3 Av-138 St
+8th Av - Fulton St:Inwood-207 St, Dyckman St, 190 St, 181 St, 175 St, 168 St, 163 St, 155 St, 145 St, 135 St, 125 St, 116 St, Cathedral Pkwy, 103 St, 96 St, 86 St, 81 St, 72 St, 59 St, 50 St, 42 St, 34 St, 23 St, 14 St, W 4 St, Spring St, Canal St, Chambers St, Fulton St, High St, Jay St, Hoyt-Schermerhorn, Lafayette Av, Clinton-Washington, Franklin Av, Nostrand Av, Kingston-Throop, Utica Av, Ralph Av, Rockaway Av, Broadway Junction, Liberty Av, Van Siclen Av, Shepherd Av, Euclid Av
+Lenox - White Plains Rd:Wakefield-241 St, Nereid Av, 233 St, 225 St, 219 St, Gun Hill Rd, Burke Av, Allerton Av, Pelham Pkwy, Bronx Park East, E 180 St, West Farms Sq, 174 St, Freeman St, Simpson St, Intervale Av, Prospect Av, Jackson Av, 3 Av-149 St, 149 St-Grand Concourse, 135 St, 125 St, 116 St, Central Park North, Harlem-148 St
+6th Av - Culver:57 St, 47-50 Sts, 42 St, 34 St, 23 St, 14 St, W 4 St, Broadway-Lafayette, 2 Av, Delancey St, East Broadway, York St, Bergen St, Carroll St, Smith-9 Sts, 4 Av-9 St, 7 Av, 15 St, Fort Hamilton Pkwy, Church Av, Ditmas Av, 18 Av, Avenue I, Bay Pkwy, Avenue N, Avenue P, Kings Hwy, Avenue U, Avenue X, Neptune Av, W 8 St, Coney Island
+Queens Blvd:Jamaica-179 St, 169 St, Sutphin Blvd, Briarwood, Kew Gardens, Union Tpke, Forest Hills-71 Av, 67 Av, 63 Dr, Woodhaven Blvd, Grand Av, Elmhurst Av, Jackson Hts, 65 St, Northern Blvd, 46 St, Steinway St, 36 St, Queens Plaza, Court Sq, Lexington Av/53 St, 5 Av/53 St, 7 Av
+Jamaica:Broad St, Fulton St, Chambers St, Canal St, Bowery, Delancey St, Marcy Av, Hewes St, Lorimer St, Flushing Av, Myrtle Av, Kosciuszko St, Halsey St, Gates Av, Chauncey St, Alabama Av, Van Siclen Av, Cleveland St, Norwood Av, Crescent St, Cypress Hills, 75 St, 85 St, Woodhaven Blvd, 104 St, 111 St, 121 St
+Myrtle Av:Middle Village-Metropolitan Av, Fresh Pond Rd, Forest Av, Seneca Av, Myrtle-Wyckoff Avs, Knickerbocker Av, Central Av
+Canarsie:8 Av, 6 Av, 14 St, 3 Av, 1 Av, Bedford Av, Lorimer St, Graham Av, Grand St, Montrose Av, Morgan Av, Jefferson St, DeKalb Av, Myrtle-Wyckoff, Halsey St, Wilson Av, Bushwick Av, Broadway Junction, Atlantic Av, Sutter Av, Livonia Av, New Lots Av, East 105 St, Canarsie-Rockaway Pkwy
+Broadway - Brighton:57 St-7 Av, 49 St, Times Sq-42 St, 34 St, 28 St, 23 St, 14 St, 8 St, Prince St, DeKalb Av, Atlantic Av, 7 Av, Prospect Park, Parkside Av, Church Av, Beverley Rd, Cortelyou Rd, Newkirk Plaza, Avenue H, Avenue J, Avenue M, Kings Hwy, Neck Rd, Sheepshead Bay, Brighton Beach, Ocean Pkwy, W 8 St
+Astoria:Astoria-Ditmars Blvd, Astoria Blvd, 30 Av, Broadway, 36 Av, 39 Av, Queensboro Plaza, Lexington Av/59 St, 5 Av/59 St
+Sea Beach:8 Av, Fort Hamilton Pkwy, New Utrecht Av, 18 Av, 20 Av, Kings Hwy, Bay Pkwy, Avenue U, 86 St, Coney Island
+West End:62 St, 71 St, 79 St, 18 Av, 20 Av, Bay Pkwy, 25 Av, Bay 50 St, Coney Island
+4th Av:Atlantic Av, Union St, 4 Av-9 St, Prospect Av, 25 St, 36 St, 45 St, 53 St, 59 St, Bay Ridge Av, 77 St, 86 St, Bay Ridge-95 St
+Concourse:Norwood-205 St, Bedford Park Blvd, Kingsbridge Rd, Fordham Rd, Tremont Av, 174-175 Sts, 170 St, 167 St, 161 St, 155 St, 145 St
+Staten Island:St George, Tompkinsville, Stapleton, Clifton, Grasmere, Old Town, Dongan Hills, Jefferson Av, Grant City, New Dorp, Oakwood Heights, Bay Terrace, Great Kills, Eltingville, Annadale, Huguenot, Prince's Bay, Pleasant Plains, Richmond Valley, Arthur Kill, Tottenville
+Rockaway:Broad Channel, Howard Beach, Aqueduct, Beach 44 St, Beach 60 St, Beach 67 St, Beach 90 St, Beach 98 St, Beach 105 St, Far Rockaway, Rockaway Park
+Franklin Shuttle:Franklin Av, Park Pl, Botanic Garden
+Crosstown:Court Sq, 21 St, Greenpoint Av, Nassau Av, Metropolitan Av, Broadway, Flushing Av, Myrtle-Willoughby, Bedford-Nostrand, Classon Av, Clinton-Washington, Fulton St
+Dyre Av:Eastchester-Dyre Av, Baychester Av, Gun Hill Rd, Pelham Pkwy, Morris Park
+Jerome Av:Woodlawn, Mosholu Pkwy, Bedford Park Blvd, Kingsbridge Rd, Fordham Rd, Tremont Av, 183 St, Burnside Av, 176 St, Mt Eden Av, 170 St, 167 St, 161 St, 149 St, 138 St
+Nostrand:Flatbush Av, Newkirk Av, Beverly Rd, Church Av, Winthrop St, Sterling St, President St, Crown Hts-Utica Av
+Liberty Av:Rockaway Blvd, 104 St, 111 St, Ozone Park-Lefferts Blvd
+Second Av:96 St, 86 St, 72 St
+63rd St:21 St-Queensbridge, Roosevelt Island, Lexington Av/63 S
+Queens - Archer:Jamaica Center, Sutphin Blvd-Archer Av, Jamaica-Van Wyck
+Manhattan Bridge:Canal St
